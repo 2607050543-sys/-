@@ -1,0 +1,14 @@
+{
+  "name": "心语手账 (MoodJournal)",
+  "description": "一款智能电子手账，支持文字、语音、图片记录心情，并能自动生成每日日记总结与情绪分析。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI情绪分析",
+    "自动日记生成",
+    "心情趋势追踪"
+  ]
+}
